@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289813693914",
+    "project_id": "tuto5-7c3b4",
+    "storage_bucket": "tuto5-7c3b4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289813693914:android:c661254364937cc5572ce3",
+        "android_client_info": {
+          "package_name": "au.edu.utas.kit305.tutorial05"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBB-JhU96oeeQI4fLkYDfhJkSxT1OXqA3Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
